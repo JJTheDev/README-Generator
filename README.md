@@ -20,7 +20,7 @@ Inquirer 9.2.11 (or later)
 ## Usage
 Markdown, JavaScript, Node, JSON
 ## Contact-Me
-* Name - Juan Jimenez
+* Name - Juan Jimenez4
 * Github - [jjthedev](https://github.com/JJTheDev)
 ## Contributors
 N/A
