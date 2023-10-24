@@ -16,7 +16,7 @@ by Juan Jimenez
 ## Description
 This ReadMe generator was created by using NodeJS and Inquirer (an NPM product). This app automatically generates professional ReadMe's.
 ## Requirements
-Inquirer 8.2.4 (or later)
+Inquirer 9.2.11 (or later)
 ## Usage
 Markdown, JavaScript, Node, JSON
 ## Contact-Me
